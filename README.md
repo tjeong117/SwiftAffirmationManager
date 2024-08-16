@@ -1,0 +1,2 @@
+# SwiftAffirmationManager
+Learning Swift 
